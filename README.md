@@ -1,0 +1,2 @@
+一个关于Ajax的小练习
+封装了get和post方法，而且可以判断json和xml文件
