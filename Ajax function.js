@@ -23,3 +23,4 @@ function ajax(option){
 		}
 	}
 	xhr.send(option.data);
+}
